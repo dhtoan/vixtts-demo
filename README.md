@@ -54,7 +54,3 @@ We would like to express our gratitude to all libraries, and resources that have
 - [DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) for noise removal
 
 ## Contact
-
-- You can message me directly on Facebook: <https://fb.com/thinhlpg/> (preferred 🤗)
-- GitHub: <https://github.com/thinhlpg>
-- Email: <thinhlpg@gmail.com> or <thinhlpgse161384@fpt.edu.vn>
